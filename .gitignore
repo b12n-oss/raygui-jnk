@@ -6,3 +6,6 @@ pom.xml
 .nrepl-port
 .DS_Store
 .clj-kondo/.cache/
+
+# docs-engine build output
+_site/
